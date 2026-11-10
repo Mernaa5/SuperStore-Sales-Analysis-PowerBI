@@ -87,6 +87,7 @@ Power BI | Power Query | DAX | Data Modeling | Data Cleaning | KPI Development |
 Data Analyst | Business Intelligence | Market Research
 
 [LinkedIn](https://www.linkedin.com/in/merna-elnaghia)
+
 <img width="1195" height="672" alt="Screenshot 2026-10-17 005233" src="https://github.com/user-attachments/assets/7f1727b0-da0b-4e21-aa99-26e9c5cc219e" />
 <img width="1197" height="674" alt="Screenshot 2026-10-17 005209" src="https://github.com/user-attachments/assets/7bbfcece-bd69-4d95-87f1-882d61dafb2b" />
 <img width="1194" height="672" alt="Screenshot 2026-10-17 005148" src="https://github.com/user-attachments/assets/876d6067-a38a-410d-844b-1fa2c764c299" />
